@@ -7,7 +7,7 @@ pillar: retirement-readiness
 keywords: [will my money last through retirement, retirement projection, RMDs, Social Security timing, Roth conversion window]
 ---
 
-Retirement used to be simpler. You worked for 30 years, got a pension, collected Social Security, and more or less knew what your income would be. Today's picture looks completely different — most people are piecing together savings from 401(k)s, IRAs, brokerage accounts, maybe a rental property, and Social Security checks that might be 30% lower than projected if Congress doesn't act.
+Retirement used to be simpler. You worked for 30 years, got a pension, collected Social Security, and more or less knew what your income would be. Today's picture looks completely different — most people are piecing together savings from 401(k)s, IRAs, brokerage accounts, maybe a rental property, and Social Security checks that might be about 23% lower — the shortfall the program's trustees project once the retirement trust fund is depleted around 2033 — if Congress doesn't act.
 
 The question "will my money last?" has become genuinely complicated to answer. And yet most people try to answer it with one of two tools: a rough rule of thumb (the "4% rule") or a free retirement calculator that asks for three inputs and gives you a color-coded green/yellow/red result that's more anxiety-inducing than useful.
 
@@ -21,7 +21,7 @@ The 4% rule — withdraw 4% of your portfolio in year one, then adjust for infla
 
 More importantly, the 4% rule ignores the biggest variables in your actual retirement picture:
 
-**Taxes.** Withdrawals from traditional IRAs and 401(k)s are taxed as ordinary income. Depending on your state, that could mean an effective tax rate of 25–35% on every dollar you pull out. When people model "I need $80,000/year to live on," they often forget they need to pull significantly more than that from tax-deferred accounts to net $80,000 after taxes.
+**Taxes.** Withdrawals from traditional IRAs and 401(k)s are taxed as ordinary income. Depending on your income and state, the top dollars you pull out can face a marginal tax rate of 22–32%. When people model "I need $80,000/year to live on," they often forget they need to pull significantly more than that from tax-deferred accounts to net $80,000 after taxes.
 
 **Social Security timing.** Claiming at 62 vs. 67 vs. 70 can mean a difference of $500–$1,200/month in your monthly benefit — for life. And that decision interacts with your other income sources in complex ways, especially if you're in a phase of life where Roth conversions make sense.
 
