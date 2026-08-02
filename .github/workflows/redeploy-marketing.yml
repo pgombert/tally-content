@@ -55,6 +55,7 @@ jobs:
             --config=cloudbuild-marketing.yaml \
             --substitutions=COMMIT_SHA=$SHA \
             --project=mystone-app \
+            --logging=CLOUD_LOGGING_ONLY \
             .
 
       - name: Deploy to Cloud Run
