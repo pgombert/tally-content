@@ -1,0 +1,73 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Lives in the tally-content repo at .github/workflows/redeploy-marketing.yml
+# (the setup script installs it there for you).
+#
+# When a blog post changes on tally-content's main branch, this rebuilds the
+# marketing site and redeploys https://thetally.io. It checks out the Tally app
+# source (FinForcast) with a read-only deploy key, builds the marketing image
+# with the existing marketing build config — which pulls the latest posts at
+# build time — and deploys the new image to Cloud Run.
+#
+# Auth to Google Cloud is keyless (Workload Identity Federation): no downloadable
+# key, and it only works from THIS repo. Setup: marketing/ops/AUTO-REDEPLOY.md.
+# ─────────────────────────────────────────────────────────────────────────────
+name: Redeploy marketing on content change
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'posts/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+
+concurrency:
+  group: redeploy-marketing
+  cancel-in-progress: true
+
+jobs:
+  redeploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the Tally app source (FinForcast)
+        uses: actions/checkout@v4
+        with:
+          repository: pgombert/FinForcast
+          ssh-key: ${{ secrets.FINFORCAST_DEPLOY_KEY }}
+          persist-credentials: false
+
+      - name: Authenticate to Google Cloud (keyless)
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ secrets.GCP_WIF_PROVIDER }}
+          service_account: ${{ secrets.GCP_DEPLOYER_SA }}
+
+      - name: Set up gcloud
+        uses: google-github-actions/setup-gcloud@v2
+
+      - name: Build the marketing image (fetches the latest posts)
+        run: |
+          SHA=$(git rev-parse HEAD)
+          gcloud builds submit \
+            --config=cloudbuild-marketing.yaml \
+            --substitutions=COMMIT_SHA=$SHA \
+            --project=mystone-app \
+            .
+
+      - name: Deploy to Cloud Run
+        run: |
+          SHA=$(git rev-parse HEAD)
+          gcloud run deploy thetally-marketing \
+            --image=gcr.io/mystone-app/thetally-marketing:$SHA \
+            --project=mystone-app \
+            --region=us-central1 \
+            --platform=managed \
+            --port=8080 \
+            --memory=256Mi \
+            --cpu=1 \
+            --min-instances=0 \
+            --max-instances=3 \
+            --allow-unauthenticated
