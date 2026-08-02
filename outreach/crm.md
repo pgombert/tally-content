@@ -4,7 +4,7 @@ Built 2026-08-02 from three research passes (YouTube reviewers, listicle/review 
 Format: `name | tier | audience | competitor coverage / evidence | contact | pitch angle | status | affiliate code | results`
 Statuses: not-contacted → pitched → replied → in-progress → live → declined/no-response.
 
-**Before first send — Pete decides:** the affiliate commission. Suggestion to consider: 25–30% of first-year revenue per referred subscriber (recurring rev-share reads better for a $7.99/mo product than flat bounties; for reference, Boldin pays roundup sites $50–125 flat per signup). Also decide: free lifetime access for reviewers — recommended yes.
+**Affiliate terms (decided 2026-08-02):** 25% of first-year revenue per referred customer who converts to paid (≈ $24/subscriber; $19.75 on annual), 60-day attribution. Commission triggers on paid conversion only, never on trial starts. Reviewers get free lifetime access + the Jim Dough demo account.
 
 ## Priority batch 1 (drafted pitches in outreach/pitches/)
 
