@@ -1,23 +1,18 @@
-# LinkedIn post — 2026-08-03
+There's a stretch of retirement most people waste: the gap years.
 
-**Note: publish the post below from Pete's personal profile. Put the blog link in the first comment, not the post body (LinkedIn suppresses posts with external links).**
+The paycheck has stopped. Social Security hasn't started. RMDs are years away. Your taxable income drops to almost nothing — and so does your tax rate.
 
----
+Those years are the cheapest tax you will ever pay, and they expire one at a time.
 
-Before I built Tally, my financial life ran on three spreadsheet tabs. One tracked our spending. One projected retirement. The third existed only to carry numbers from the first tab to the second.
+The 2026 math for a married couple filing jointly: a $32,200 standard deduction plus a 12% bracket that runs to $100,800 of taxable income. That's $133,000 of gross income before any dollar is taxed above 12%. A couple with $40,000 of actual income has $93,000 of Roth conversion room at 12% or less — money that might otherwise come out at 22%+ when RMDs stack on top of Social Security in their seventies.
 
-That third tab is a product category nobody talks about.
+And if you were born in 1960 or later, SECURE 2.0 moved your first RMD to age 75. Retire at 60 and that's up to fifteen of these years.
 
-The personal finance market splits cleanly in two. Budgeting apps (YNAB, Monarch) are excellent at "where did last month go." Planning tools (Boldin, ProjectionLab) are excellent at "will I make it to 90." Both camps have real craft in them. But the most important input in any retirement projection — what you actually spend — lives in the first camp and gets hand-typed into the second. Once. Then it quietly goes stale while the projection stays confident.
+The catch: the bracket chart isn't the whole system. Medicare's IRMAA surcharge looks back two years at your income. ACA subsidies shrink with every converted dollar. The 0% capital gains bracket shares space with your conversion. Same IRA balance, different circumstances, completely different right answer.
 
-I priced out the two-app fix this week for a blog post: $229 to $253 a year at current prices, plus you become the sync layer between them.
+I wrote up the full arithmetic this week — worked example, the three traps, and when converting nothing is correct. Link in the comments.
 
-That gap is the reason Tally exists. One app, where the lifetime forecast reads the same live account data the budget does. When your spending changes, your retirement math changes with it. No third tab.
-
-The full comparison — honest cases for each tool, verified 2026 pricing — is in the comments.
-
-#personalfinance #fintech #buildinpublic
+#RothConversion #RetirementPlanning #TaxPlanning
 
 ---
-
-**First comment to post:** Full breakdown, with current pricing for YNAB, Monarch, Empower, Boldin, and ProjectionLab: https://thetally.io/blog/budgeting-app-vs-retirement-planning-software
+Note: post the blog link as the first comment: https://thetally.io/blog/roth-conversion-sweet-spot-2026

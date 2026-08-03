@@ -1,31 +1,29 @@
-# Two apps, one financial life
+# The years your tax rate goes on sale
 
-I built a spreadsheet in 2019 that I was weirdly proud of. One tab pulled in our spending. Another tab projected retirement. A third tab existed solely to move numbers from the first tab to the second, because the two halves of my financial life refused to talk to each other.
+Most of the tax planning conversations I have with Tally users end up in the same place: the gap years.
 
-That spreadsheet is a big part of why Tally exists. And this week I wrote up the problem it was solving, because I think most people are still living it — usually across two subscriptions instead of three tabs.
+You retire at 60 or 62. The paycheck stops. Social Security hasn't started. RMDs are a decade away. And for a few years, your tax return looks almost empty. It feels like a quiet stretch. It's actually the most valuable tax window of your life — and it closes one year at a time, whether you use it or not.
 
-Here's the shape of it.
+This week's post on the blog is about how to use it: the Roth conversion sweet spot, and specifically how much to convert each year. Not "conversions are good" — you've read that a hundred times — but the actual arithmetic with 2026 numbers.
 
-**Money apps come in two camps.** Budgeting apps — YNAB, Monarch, Empower's free dashboard — connect to your accounts and tell you where last month went. Retirement planners — Boldin, ProjectionLab — take your assumptions and project decades ahead, taxes and all. Both camps are good at their half. Neither crosses the aisle.
+The short version. A married couple filing jointly gets a $32,200 standard deduction in 2026, and the 12% bracket runs to $100,800 of taxable income. That means $133,000 of gross income before any dollar is taxed above 12%. If your actual income in a gap year is $40,000, that's $93,000 of conversion room at rates of 12% or less. In the worked example in the post, the conversion costs about 11.6% — on money that might otherwise come out at 22% or more when RMDs stack on top of Social Security.
 
-Ask YNAB "can I retire at 58?" and you get silence. It's not built for that, and to its credit it doesn't pretend otherwise. Ask Boldin "what did I actually spend last month?" and you get whatever number you typed in when you set up your plan — possibly years ago.
+And the window is longer than it used to be. If you were born in 1960 or later, SECURE 2.0 pushed your first RMD to age 75. Retire at 60 and you're looking at up to fifteen separate low-bracket years. Each one is a use-it-or-lose-it allocation of cheap tax space.
 
-**That typed-in number is the quiet failure point.** The single most important input in any retirement projection is what you actually spend. In a planner, it's a field you fill in once. If you enter $6,500 a month and your real number is $7,400, every chart downstream is wrong by roughly $11,000 a year — and nothing in the tool will ever flag it. The projection stays confident. It's just confidently wrong.
+But here's the part I care most about, because it's where rule-of-thumb advice quietly costs people money: the bracket chart isn't the whole tax system. Three other systems key off your income in ways that don't show up on it.
 
-**The two-app fix works, but it costs you twice.** YNAB plus Boldin runs $253 a year at current prices. Monarch Core plus ProjectionLab Premium is about $229. And the handoff between them is you — every job change, every sold house, every kid off the payroll gets entered twice, or drifts.
+Medicare's IRMAA surcharge looks back two years — your 2026 premiums are set by your 2024 return, and the 2026 surcharge starts at $218,000 of MAGI for joint filers. Convert big at 63 and you find out at 65. If you're pre-65 on an ACA plan, every converted dollar raises the income your subsidy is based on, which acts like an extra tax layered on the bracket. And the 0% capital gains bracket ($98,900 of taxable income for joint filers in 2026) shares space with your conversion — you generally can't fill the bracket and harvest gains tax-free in the same year.
 
-In the full post I go through what each tool costs in 2026 (all prices verified against their published pricing this week), what each does genuinely well, and who is fine with just one aisle. Short version: if retirement feels far away, a budgeting app alone is fine. If you're close to retiring and your spending is stable, a planner alone can work — just put a spending-number review on your calendar, because that input decays quietly.
+Same IRA balance, different age, different health insurance, different state: completely different right answer. That's not a flaw in the strategy. It's just what happens when eight inputs feed one decision.
 
-But if you want the forecast tied to reality — real spending feeding real projections — you either run two tools and sync them by hand, or use one app built to do both. That second category is small. It's the one Tally is in, and closing that gap is the whole reason I started building it: account sync and budget-vs-actuals on the "today" side, and a lifetime, tax-aware forecast — federal plus all 50 states, Monte Carlo included — on the "future" side, reading the same live data.
+This is honestly why I built the Roth conversion analysis into Tally the way I did. I didn't want a calculator that spits out "convert $93,000." I wanted to see the whole picture move: this year's tax bill, the IRMAA thresholds, the state tax, and what the conversion does to our lifetime runway — before moving a dollar. You set up the conversion as a what-if scenario, and the forecast shows you both futures side by side.
 
-The test I'd apply to any app, including mine: ask it *what year does my money run out, after taxes, based on what I actually spend?* If it can answer from your real data, it sees your whole financial life. If it can't, it sees half. Plenty of people are fine with half — but it's worth knowing which half you're missing.
+The full post walks through the worked example, the three traps, and the cases where converting nothing is the right call (charitable giving through QCDs is a big one). If you're anywhere in or near the gap years, it's worth ten minutes:
 
-**[Read the full breakdown →](https://thetally.io/blog/budgeting-app-vs-retirement-planning-software)**
+**[The Roth Conversion Sweet Spot: How Much to Convert Before RMDs Begin](https://thetally.io/blog/roth-conversion-sweet-spot-2026)**
 
-It covers the honest cases for YNAB, Monarch, Empower, Boldin, and ProjectionLab, current 2026 pricing for each, and the four things to demand from any app that claims to do both.
+One housekeeping note from the example that I'll repeat forever: pay the conversion tax from taxable cash, not from the conversion itself. Every dollar withheld from the conversion is a dollar that never gets into the Roth. It's the most common self-inflicted wound in this whole strategy.
 
-If you've been running the two-app setup (or the three-tab spreadsheet — I see you), I'd love to hear how you handle the handoff. Just reply.
-
-And if you want to try the one-app answer: Tally is $7.99 a month or $79 a year, with a 14-day free trial at [thetally.io](https://thetally.io). No credit card required.
+If you want to run your own numbers, Tally's free for 14 days at thetally.io — no credit card required.
 
 — Pete

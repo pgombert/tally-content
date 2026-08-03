@@ -1,39 +1,43 @@
 # TikTok / Reels scripts — week of 2026-08-03
-
-Format: screen recording + voiceover, no face. Record in the Tally app (app.thetally.io) unless a line says otherwise. Target 30–45 seconds each.
-
----
-
-## Script 1: "Your retirement planner believes anything"
-
-Runtime target: ~35 seconds.
-
-| Voiceover | Screen |
-|---|---|
-| "Your retirement planner will believe anything you tell it." | Hook text on screen: "Your planner believes anything" over a generic projection chart. |
-| "Every planning tool asks the same question: what do you spend per month? And you type in a guess." | Show a form field with "$6,500" being typed in. |
-| "Say you guess $6,500. But your real number is $7,400." | Cut to Tally's expense breakdown report showing actual monthly spending. |
-| "That's a $900-a-month miss. Almost eleven thousand dollars a year, every year of the projection." | Overlay text: "$900/mo = ~$11,000/yr wrong". |
-| "And the tool never flags it — because it never looks at your real accounts." | Show the projection chart again, unchanged. |
-| "The fix: a forecast that reads your actual spending. Synced from your banks, updated when your life changes." | Show Tally's runway chart, then scroll the connected-accounts list. |
-| "Know the year your money runs out — based on what you really spend." | Hold on the runway chart with the run-out year visible. End card: thetally.io. |
-
-Caption: Your retirement projection is only as good as the spending number you typed into it. When did you last update yours? Free 14-day trial at thetally.io #retirementplanning #personalfinance #moneytok #fire
+Format: screen recording of Tally + voiceover. 30–45s each. Hook lands in the first 2 seconds.
 
 ---
 
-## Script 2: "Why you're paying for two money apps"
+## Script 1: "The $93,000 move" (~40s)
 
-Runtime target: ~40 seconds.
+**[0:00–0:02] HOOK — text on screen: "$93,000 taxed at 12% instead of 22%"**
+VO: "Retirees are moving ninety-three thousand dollars a year and paying twelve percent on it. Here's the math."
 
-| Voiceover | Screen |
-|---|---|
-| "You might be paying twice to look at the same money." | Hook text: "$253/year to look at the same accounts". |
-| "Money apps come in two camps. Budgeting apps tell you where last month went." | Screen-record scrolling a generic budget category list (use Tally's budget view). |
-| "Planning tools tell you if you'll make it to 90." | Show a long-range projection chart in Tally. |
-| "Run one of each — a popular budgeting app plus a popular planner — and you're at $253 a year at current prices." | Overlay text: "$109 + $144 = $253/yr". |
-| "Worse: they don't talk to each other. You are the sync layer." | Overlay text: "you = the integration". |
-| "One app can do both jobs: budgets and actuals on one side, a lifetime tax-aware forecast on the other, reading the same live data." | In Tally, go from budget-vs-actuals to the runway chart in one screen recording, no cuts. |
-| "Track today. Forecast the future. One app." | End card: "thetally.io — $79/yr, 14-day free trial". |
+**[0:02–0:10] — screen: Tally forecast view, gap years visible between retirement and RMD age**
+VO: "When you retire, there's a window before Social Security and required minimum distributions start. Your income drops. So does your tax bracket. Those are the gap years."
 
-Caption: Budgeting app + retirement planner = $250ish a year, and you still have to copy numbers between them. There's a simpler way. thetally.io #personalfinance #budgeting #retirementplanning #fintok
+**[0:10–0:22] — screen: what-if scenario, entering a Roth conversion**
+VO: "In 2026, a married couple gets a thirty-two-thousand-two-hundred-dollar standard deduction, and the twelve percent bracket runs to one hundred thousand eight hundred of taxable income. If your real income is forty grand, that leaves ninety-three thousand of Roth conversion room — all taxed at twelve percent or less."
+
+**[0:22–0:32] — screen: side-by-side runway comparison, convert vs. don't**
+VO: "Skip it, and that same money can come out later at twenty-two percent or more, when RMDs stack on top of Social Security. The bracket space doesn't roll over. Every year you don't use it, it's gone."
+
+**[0:32–0:40] — screen: Tally logo card**
+VO: "I model this with a what-if scenario in Tally before moving a dollar. Fourteen-day free trial at thetally-dot-io. No credit card."
+
+**Caption:** The gap years are the cheapest tax you'll ever pay. 2026 numbers in the video. #rothconversion #retirementplanning #taxes
+**On-screen disclaimer (small, last frame):** Educational, not tax advice. 2026 federal figures.
+
+---
+
+## Script 2: "The Medicare trap nobody mentions" (~35s)
+
+**[0:00–0:02] HOOK — text on screen: "Your 2024 tax return sets your 2026 Medicare bill"**
+VO: "Medicare is looking at your tax return from two years ago. Most people find out too late."
+
+**[0:02–0:12] — screen: Tally tax report showing MAGI**
+VO: "It's called IRMAA. In 2026, if your income two years back was over two hundred eighteen thousand married, or one-oh-nine single, you pay a surcharge on top of your Medicare premium. Go one dollar over the line, you pay the full tier."
+
+**[0:12–0:24] — screen: entering a large Roth conversion in a what-if scenario, watching the numbers move**
+VO: "Here's where it bites: Roth conversions count as income. A big conversion at sixty-three can quietly raise your Medicare premiums at sixty-five. The bracket chart never shows you that."
+
+**[0:24–0:35] — screen: runway comparison, then logo card**
+VO: "So before converting, I run it as a what-if in Tally — it models the taxes and shows what the conversion does to our lifetime runway. Both futures, side by side. Free for fourteen days at thetally-dot-io."
+
+**Caption:** The IRMAA lookback catches people every year. Check your conversion plan against it. #medicare #irmaa #rothconversion
+**On-screen disclaimer (small, last frame):** Educational, not tax advice. 2026 federal figures.
