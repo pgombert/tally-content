@@ -15,3 +15,4 @@ token-expires: 2026-10-30
 2026-07-06 | tax-modeling | How to Pay 0% Tax on Capital Gains: The Tax Gain Harvesting Strategy Most People Have Never Heard Of | tax-gain-harvesting
 2026-08-03 | product-comparison | Budgeting App vs. Retirement Planner: Do You Really Need Both in 2026? | budgeting-app-vs-retirement-planning-software
 2026-08-03 | drive-sync smoke test | verifying append path
+2026-08-03 | Tax Modeling | Roth conversion sweet spot before RMDs (target query: "how much to convert to roth each year") | posts/roth-conversion-sweet-spot-2026.md
