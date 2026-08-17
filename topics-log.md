@@ -15,3 +15,6 @@ token-expires: 2026-10-30
 2026-07-06 | tax-modeling | How to Pay 0% Tax on Capital Gains: The Tax Gain Harvesting Strategy Most People Have Never Heard Of | tax-gain-harvesting
 2026-08-03 | product-comparison | Budgeting App vs. Retirement Planner: Do You Really Need Both in 2026? | budgeting-app-vs-retirement-planning-software
 2026-08-03 | Tax Modeling | Roth conversion sweet spot before RMDs (target query: "how much to convert to roth each year") | posts/roth-conversion-sweet-spot-2026.md
+2026-08-15 | fire | The ACA Subsidy Cliff Is Back: A 2026 Playbook for Early Retirees (target query: "aca subsidy cliff 2026 early retirement") | posts/aca-subsidy-cliff-early-retirement-2026.md
+2026-08-16 | Retirement Readiness | Social Security at 62 vs 67 vs 70 (target query: "should I take social security at 62 or wait") | posts/social-security-62-vs-67-vs-70.md
+2026-08-17 | Budgeting & Cash Flow | How to Budget for Irregular Expenses (target query: "how to budget for irregular expenses") | posts/how-to-budget-irregular-expenses.md
