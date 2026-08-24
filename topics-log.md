@@ -18,3 +18,4 @@ token-expires: 2026-10-30
 2026-08-15 | fire | The ACA Subsidy Cliff Is Back: A 2026 Playbook for Early Retirees (target query: "aca subsidy cliff 2026 early retirement") | posts/aca-subsidy-cliff-early-retirement-2026.md
 2026-08-16 | Retirement Readiness | Social Security at 62 vs 67 vs 70 (target query: "should I take social security at 62 or wait") | posts/social-security-62-vs-67-vs-70.md
 2026-08-17 | Budgeting & Cash Flow | How to Budget for Irregular Expenses (target query: "how to budget for irregular expenses") | posts/how-to-budget-irregular-expenses.md
+2026-08-24 — RMDs and the tax cliff at 73: Your First RMD Is a Deadline, Not a Plan: What Turning 73 Actually Does to Your Tax Bill
