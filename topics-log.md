@@ -19,3 +19,4 @@ token-expires: 2026-10-30
 2026-08-16 | Retirement Readiness | Social Security at 62 vs 67 vs 70 (target query: "should I take social security at 62 or wait") | posts/social-security-62-vs-67-vs-70.md
 2026-08-17 | Budgeting & Cash Flow | How to Budget for Irregular Expenses (target query: "how to budget for irregular expenses") | posts/how-to-budget-irregular-expenses.md
 2026-08-24 — RMDs and the tax cliff at 73: Your First RMD Is a Deadline, Not a Plan: What Turning 73 Actually Does to Your Tax Bill
+2026-08-31 — IRMAA / Medicare premium surcharges and the two-year lookback: The IRMAA Cliff: How One Extra Dollar of Income at 63 Raises Your Medicare Premium Two Years Later
