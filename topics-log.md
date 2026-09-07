@@ -22,3 +22,4 @@ token-expires: 2026-10-30
 2026-08-31 — IRMAA / Medicare premium surcharges and the two-year lookback: The IRMAA Cliff: How One Extra Dollar of Income at 63 Raises Your Medicare Premium Two Years Later
 2026-08-31 | Product/Comparison | Do you need both a budgeting app and a retirement planner? (target query: "budgeting app with retirement planning") | posts/budgeting-app-with-retirement-planning.md
 2026-09-07 — The survivor's tax trap (widow's penalty) — filing-status change in retirement: The Survivor's Tax Trap: Why One Spouse's Death Can Raise a Retiree's Tax Bill
+2026-09-07 | Tax Modeling | The 0% Capital Gains Bracket in 2026: How Much You Can Sell Tax-Free (target query: "0 percent capital gains bracket 2026") | posts/zero-percent-capital-gains-bracket-2026.md
