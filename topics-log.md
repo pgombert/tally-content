@@ -24,3 +24,4 @@ token-expires: 2026-10-30
 2026-09-07 — The survivor's tax trap (widow's penalty) — filing-status change in retirement: The Survivor's Tax Trap: Why One Spouse's Death Can Raise a Retiree's Tax Bill
 2026-09-07 | Tax Modeling | The 0% Capital Gains Bracket in 2026: How Much You Can Sell Tax-Free (target query: "0 percent capital gains bracket 2026") | posts/zero-percent-capital-gains-bracket-2026.md
 2026-09-14 — The temporary $6,000 senior deduction (age 65+) and its MAGI phaseout: The $6,000 Senior Deduction Expires After 2028: What to Do With Your Four-Year Window
+2026-09-14 | FIRE | How to Withdraw From Retirement Accounts Before 59½ — Without the 10% Penalty (target query: "withdraw from 401k early without penalty") | posts/retire-before-59-half-penalty-free-withdrawals.md
