@@ -26,3 +26,4 @@ token-expires: 2026-10-30
 2026-09-14 — The temporary $6,000 senior deduction (age 65+) and its MAGI phaseout: The $6,000 Senior Deduction Expires After 2028: What to Do With Your Four-Year Window
 2026-09-14 | FIRE | How to Withdraw From Retirement Accounts Before 59½ — Without the 10% Penalty (target query: "withdraw from 401k early without penalty") | posts/retire-before-59-half-penalty-free-withdrawals.md
 2026-09-21 — Net Investment Income Tax (3.8% surtax) and its frozen, un-indexed thresholds: The 3.8% Tax Whose Threshold Never Moves: How the Net Investment Income Tax Catches Retirees
+2026-09-21 | Retirement Readiness | The 2026 Roth Catch-Up Rule: What to Do If You Earn Over $150,000 (target query: "roth catch up rule 2026") | posts/roth-catch-up-rule-2026.md
