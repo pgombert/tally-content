@@ -28,3 +28,4 @@ token-expires: 2026-10-30
 2026-09-21 — Net Investment Income Tax (3.8% surtax) and its frozen, un-indexed thresholds: The 3.8% Tax Whose Threshold Never Moves: How the Net Investment Income Tax Catches Retirees
 2026-09-21 | Retirement Readiness | The 2026 Roth Catch-Up Rule: What to Do If You Earn Over $150,000 (target query: "roth catch up rule 2026") | posts/roth-catch-up-rule-2026.md
 2026-09-28 — Social Security earnings test (working while claiming before FRA): The Social Security Earnings Test: Why Working Before Full Retirement Age Doesn't Cost You What You Think
+2026-09-28 — Social Security earnings test (claiming early while still working): Working While Collecting Social Security: How the Earnings Test Really Works
