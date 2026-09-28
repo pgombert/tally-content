@@ -29,3 +29,4 @@ token-expires: 2026-10-30
 2026-09-21 | Retirement Readiness | The 2026 Roth Catch-Up Rule: What to Do If You Earn Over $150,000 (target query: "roth catch up rule 2026") | posts/roth-catch-up-rule-2026.md
 2026-09-28 — Social Security earnings test (working while claiming before FRA): The Social Security Earnings Test: Why Working Before Full Retirement Age Doesn't Cost You What You Think
 2026-09-28 — Social Security earnings test (claiming early while still working): Working While Collecting Social Security: How the Earnings Test Really Works
+2026-09-28 | Budgeting & Cash Flow | How to Budget on a Biweekly Paycheck (and What to Do With Three-Paycheck Months) (target query: "how to budget biweekly paychecks") | posts/how-to-budget-biweekly-paychecks.md
