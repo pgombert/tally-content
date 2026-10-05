@@ -31,3 +31,4 @@ token-expires: 2026-10-30
 2026-09-28 — Social Security earnings test (claiming early while still working): Working While Collecting Social Security: How the Earnings Test Really Works
 2026-09-28 | Budgeting & Cash Flow | How to Budget on a Biweekly Paycheck (and What to Do With Three-Paycheck Months) (target query: "how to budget biweekly paychecks") | posts/how-to-budget-biweekly-paychecks.md
 2026-10-05 — Inherited IRAs and the 10-year rule: The Inherited IRA 10-Year Rule: Why Taking Only the Minimum Is the Expensive Choice
+2026-10-05 | Product/Comparison | Monarch Money Alternatives in 2026: What to Check Before You Switch (target query: "monarch money alternative") | posts/monarch-money-alternatives-2026.md
