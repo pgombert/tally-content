@@ -34,3 +34,4 @@ token-expires: 2026-10-30
 2026-10-05 | Product/Comparison | Monarch Money Alternatives in 2026: What to Check Before You Switch (target query: "monarch money alternative") | posts/monarch-money-alternatives-2026.md
 2026-10-12 — Social Security tax torpedo (provisional income and the hump-shaped marginal rate): The Tax Torpedo: Why Your Marginal Rate Can Go Up, Then Back Down, in Retirement
 2026-10-12 | Tax Modeling | Estimated Taxes in Retirement: The Safe Harbor Rules That Keep You Penalty-Free (target query: "estimated taxes in retirement") | posts/estimated-taxes-in-retirement.md
+2026-10-19 — Qualified charitable distributions (QCDs): The QCD: How to Give to Charity Without It Ever Touching Your Income
