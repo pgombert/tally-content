@@ -1,115 +1,81 @@
 ---
-title: "The 4% Rule Is Wrong for Early Retirees — Here's What to Use Instead"
+title: "Does the 4% Rule Work for Early Retirement? The 50-Year Problem"
 slug: 4-percent-rule-early-retirement
-date: 2026-04-20
-description: "The 4% rule was built for 30-year retirements, not 50. Why it fails early retirees - and the withdrawal strategies that actually work instead."
-pillar: fire
-keywords: [4% rule early retirement, safe withdrawal rate, Guyton-Klinger guardrails, sequence of returns risk, bond tent, withdrawal sequencing]
+date: 2026-10-19
+description: "The 4% rule was built for 30-year retirements. Here is what the research says when your money has to last 50 years, and how to find your own number."
+pillar: FIRE
+keywords:
+  - 4% rule early retirement
+  - safe withdrawal rate early retirement
+  - 4 percent rule FIRE
+  - 50 year retirement withdrawal rate
 ---
 
-If you've spent any time in the FIRE community, you've met the 4% rule. It's the first number most people learn, often the only one they use, and the single biggest reason early retirees either retire too late or run out of money too soon.
+Save 25 times your annual spending, withdraw 4% a year, and you never run out of money. That is the 4% rule, and it is the closest thing the FIRE community has to scripture.
 
-The 4% rule isn't wrong, exactly. It's just being asked to do a job it was never designed for. Bill Bengen's original 1994 research — the study that produced the number — modeled a 30-year retirement starting at age 65. If you're planning to retire at 45, you're not looking at a 30-year retirement. You're looking at 50 or more. And everything that makes the 4% rule "safe" over 30 years gets shaky over 50.
+Here is the problem. The rule was built to answer a question you are not asking. It tested whether money lasts 30 years. If you retire at 45, you need it to last 50.
 
-Let's walk through why, and what early retirees should use instead.
+Those are different questions with different answers.
 
-## What the 4% rule actually says
+## Where the 4% rule actually came from
 
-The rule, in its cleanest form: in year one of retirement, withdraw 4% of your portfolio. Each subsequent year, withdraw the same dollar amount, adjusted for inflation. Bengen's original work — and the later Trinity Study that popularized it — found that a 60/40 portfolio following this rule survived nearly every historical 30-year retirement window.
+In 1994, a financial planner named Bill Bengen tested a simple strategy against history. Take a portfolio of 60% large-cap US stocks and 40% intermediate-term government bonds. Withdraw a fixed percentage in year one. Raise the dollar amount with inflation every year after that. Run it for every hypothetical retiree since 1926 and see who goes broke within 30 years.
 
-That's the key phrase: **historical 30-year windows**. Not 40. Not 50. Not every possible future.
+The worst case in his data was someone who retired in October 1968, straight into a brutal stretch of bad returns and high inflation. Even that retiree survived 30 years at an initial withdrawal rate of 4.15%. Round down and you get the 4% rule.
 
-The rule implicitly bundles a bunch of assumptions most people never examine:
+Notice what is baked in:
 
-- A 60/40 U.S. stock/bond portfolio
-- Tax-efficient withdrawal assumed away (no modeling of which accounts to drain first)
-- Social Security and pensions ignored (or layered on separately)
-- Inflation at long-run U.S. historical averages
-- No lumpy expenses (no new roof, no college, no healthcare surprises)
-- A fixed, inflation-adjusted withdrawal regardless of how markets perform
+- A 30-year horizon. Not 40. Not 50.
+- A specific two-asset portfolio, rebalanced annually.
+- A tax-advantaged account, with no investment fees modeled.
+- Perfectly mechanical behavior: the same inflation-adjusted dollar amount every year, in crashes and in booms.
 
-For a 65-year-old with Social Security kicking in within a few years, a modest RMD horizon, and a relatively short planning window, these simplifications wash out. For someone retiring at 42 with two kids and three decades before Social Security, they don't.
+Every one of those assumptions bends or breaks for an early retiree.
 
-## Why it breaks for early retirees
+## What happens when 30 years becomes 50
 
-There are four specific reasons the 4% rule fails when you stretch it from 30 to 50 years.
+Stretch the horizon and the math gets less forgiving. Most 30-year retirements end with money left over. The failures come from a specific pattern: bad returns early, while withdrawals keep grinding down the principal. The longer the horizon, the more chances that pattern gets to play out, and the longer a weakened portfolio has to limp.
 
-### 1. Sequence-of-returns risk compounds
+Karsten Jeske, who writes the Safe Withdrawal Rate series at Early Retirement Now and is one of the most thorough researchers on this topic, backtested long horizons directly. In his historical data, a 4% withdrawal rate over 60 years succeeded 89% of the time with a portfolio of 100% stocks — and only 65% of the time at 50% stocks. His blunt conclusion for very long retirements: the safe withdrawal rate "is not 4%." For multi-decade horizons, his work generally points toward starting rates in the low-to-mid 3s, depending on equity allocation and market valuations.
 
-If the first five years of your retirement deliver bad market returns, you burn through capital at depressed prices and have less principal to ride the recovery. A 30-year retiree has fewer of these five-year windows to worry about. A 50-year retiree has more of them, and a bad stretch early is nearly impossible to recover from if you're withdrawing mechanically.
+Vanguard looked at the same question in a research paper aimed at the FIRE community and flagged the same issues: the rule rests on historical US returns that may not repeat, it ignores fees, and it was never designed for 50-year horizons. Their recommendation was to diversify more broadly and use a dynamic spending approach instead of a fixed inflation-adjusted amount.
 
-Research from Wade Pfau and Michael Kitces has shown that safe withdrawal rates drop meaningfully as retirement length increases — from roughly 4% at 30 years to something closer to 3.3–3.5% at 50 years, assuming the same portfolio and methodology. A forty-two-year-old retiring on a 4% rule is taking materially more risk than a sixty-five-year-old doing the same.
+None of this means early retirement fails. It means 25x expenses is a good milestone and a bad finish line.
 
-### 2. Inflation is not symmetric
+## Meanwhile, the experts disagree about the original rule too
 
-The Trinity Study treats inflation as a single number — whatever the official CPI says. But personal inflation rarely matches CPI. Healthcare inflation has historically run 2–3 percentage points above general CPI, and for early retirees, healthcare before Medicare eligibility is one of the biggest expense categories. A 4% withdrawal plan that hits a decade of above-average medical inflation is not the same plan it started as.
+It would be convenient if the research community had settled on one number. It has not — and the two most-cited sources right now point in opposite directions.
 
-### 3. Tax modeling is missing
+Bengen himself published a new book in 2025, A Richer Retirement, revising his own rule upward. With a broader portfolio — adding small-cap, mid-cap, micro-cap, and international stocks to the original two assets — his worst-case historical rate rises to 4.7% for a 30-year retirement.
 
-Bengen's research didn't model taxes. At all. Real withdrawal plans have to answer: Do you pull from brokerage first? Traditional IRA? Roth? Do you harvest capital gains while you're in a 0% long-term capital gains bracket? Do you do Roth conversions in the window between retirement and age 73?
+Morningstar's annual State of Retirement Income research went the other way. Using forward-looking return projections instead of history, it puts the starting safe withdrawal rate for new retirees at 3.9% for 2026 — up from 3.7% a year earlier — for a 30-year horizon with a 90% probability of success.
 
-A tax-optimized withdrawal sequence can effectively increase your safe withdrawal rate by 0.3–0.7 percentage points — not because the math changes, but because you're keeping more of what you take out. Over a 50-year retirement, that's not a rounding error.
+So is it 4.7% or 3.9%? Both, and neither. Bengen asks what survived the worst of history with a diversified portfolio. Morningstar asks what has a 90% chance of working given today's valuations and projected returns. Different assumptions, different answers — and both are modeling a 30-year retirement, not yours.
 
-### 4. Social Security and asset mechanics aren't modeled
+## The variables a rule of thumb cannot see
 
-For most early retirees, Social Security doesn't start until age 62 at the earliest, or age 70 at the latest. The 4% rule doesn't know what to do with a future income stream that shows up decade three. Neither does it understand that at age 73, required minimum distributions will force money out of your traditional accounts whether you want it or not. RMDs can push a careful early retiree back into a higher bracket just when they least want it — and most 4% rule plans have no answer for that.
+A withdrawal rate compresses your entire financial life into one number. For early retirees, the compression throws away the things that decide the outcome.
 
-## The withdrawal strategies early retirees actually use
+Taxes are the big one. The 4% rule assumes withdrawals from a tax-advantaged account and models nothing about what you keep. Real early retirees pull from a mix of brokerage, traditional, and Roth accounts, each taxed differently. Long-term capital gains have a 0% bracket. Roth conversions during low-income years can cut lifetime taxes substantially. Required minimum distributions eventually force income whether you want it or not. Two households with identical portfolios and identical spending can have meaningfully different outcomes on taxes alone.
 
-If the 4% rule is the hammer, here are the more specialized tools.
+Spending is not a flat line. Health insurance before Medicare can swing thousands of dollars a year based on how your income lands against ACA subsidy thresholds. A mortgage gets paid off. Kids leave the payroll. Research consistently finds real spending declines through retirement — Morningstar notes that accounting for that pattern alone could support a starting rate roughly a percentage point higher.
 
-### Dynamic withdrawal: Guyton-Klinger guardrails
+Other income shows up later. Social Security is a large, inflation-adjusted stream that starts 15 to 25 years into an early retirement. A couple has two benefit start dates, two life expectancies, and survivor rules to plan around. A withdrawal rate ignores all of it.
 
-The simplest upgrade. Instead of withdrawing a fixed inflation-adjusted amount every year, you set guardrails on your withdrawal rate. If market returns push your rate too high (because your portfolio shrank), you cut 10%. If returns push your rate too low (because your portfolio grew), you increase 10%.
+Sequence matters more than averages. Two retirees with the same average return can end up in completely different places depending on which returns came first. This is exactly the risk that grows with horizon length, and exactly what a single fixed percentage cannot manage.
 
-Guyton-Klinger-style rules have been shown in backtests to support initial withdrawal rates of 5%+ for 30-year retirements, and meaningfully higher rates than 4% even at 50-year horizons — at the cost of variable spending. Most FIRE retirees have some spending they can flex (travel, discretionary) and some they can't (healthcare, mortgage). Guardrails let you lean on the flexible parts when markets demand it.
+## What to do instead of arguing about 4%
 
-### Bond tent / rising equity glidepath
+The honest answer to "does the 4% rule work for early retirement" is: as a milestone, yes; as a plan, no. Here is a better sequence.
 
-Pfau's research on equity glidepaths found something counterintuitive: starting retirement with a lower stock allocation and *increasing* it over time can reduce sequence risk. The "bond tent" peaks around the retirement date, then the bond allocation comes down as the sequence-of-returns risk window passes. For early retirees, who have the largest sequence risk window in the industry, this matters a lot.
+First, model your actual life, not a multiple. Project your real accounts, your real spending, taxes by year — federal and state — plus Social Security when it arrives and RMDs when they are forced. The output you want is not a percentage. It is a date: given everything, when does the money run out? Call it your runway.
 
-### Bucket strategy
+Second, stress-test the sequence. A single projection assumes average returns in a tidy line. Run the plan through thousands of market sequences — a Monte Carlo simulation — and look at the probability of success, not just the base case. If your plan only works when returns cooperate, it is not a plan yet.
 
-Some retirees keep 2–3 years of expenses in cash, 5–10 years in bonds, and the rest in equities. When markets are down, they spend from cash and bonds. When markets are up, they refill the cash bucket from equity gains. It's a psychological tool as much as a financial one — but it also operationalizes the "don't sell stocks in a crash" rule in a way most people can actually stick to.
+Third, test the decisions you actually control. What if you work one more year? Retire with 27x instead of 25x? Shift spending down 10% in down-market years? Convert to Roth before Social Security starts? Each what-if moves the runway, and seeing the movement is how you find out which lever matters for your situation.
 
-### Tax-optimized withdrawal sequencing
+This is the work Tally is built for: it connects your real accounts, projects your lifetime cash flows with federal and state taxes modeled in, runs Monte Carlo simulations on top of the base forecast, and shows your runway to the day — including separate runways for each partner in a household. The point is to replace a borrowed rule with your own numbers.
 
-The order in which you draw down accounts matters enormously. A common early-retirement sequence:
+The 4% rule earned its place. It turned "how much do I need" from a guess into arithmetic, and 25x spending remains a sensible target to aim for. Just treat it as the beginning of the analysis, not the end — especially if your retirement needs to outlast the study it came from by two decades.
 
-1. Taxable brokerage first (while doing 0% long-term capital gains harvesting up to the bracket limit)
-2. Roth conversions from traditional IRA to fill up the low brackets each year
-3. Later, blend Roth conversions with brokerage withdrawals to manage ACA subsidy cliffs
-4. Traditional IRA draws starting around age 60+
-5. Social Security deferred to 67 or 70 if possible
-6. Roth last
-
-The right sequence depends on your state, your income sources, your ACA subsidy strategy, and your heirs. No single rule captures it. But almost every early retiree doing real planning ends up with something more sophisticated than "4% a year."
-
-## Why the spreadsheet breaks
-
-This is where planning falls apart for most people. You can build the 4% rule in a spreadsheet in about ten minutes. You cannot build the above framework in a spreadsheet in ten hours — and even if you do, it's going to be fragile, hard to update, and full of hidden errors.
-
-Modeling an early retirement properly means tracking every account separately, applying real federal and state tax brackets to every year of withdrawals, accounting for ACA subsidy phaseouts, layering in Social Security at the chosen claiming age, running RMDs starting at 73, modeling inflation on different expense categories, and testing the whole thing against adverse return sequences.
-
-The FIRE spreadsheets floating around Reddit that "prove" 4% works are almost always missing at least four of those things.
-
-## What to do instead
-
-If you're serious about retiring early, here's a reasonable workflow:
-
-1. **Start with a lifetime forecast, not a withdrawal rate.** Project your actual income, expenses, and tax situation year-by-year out to age 95. A withdrawal rate is an output of a plan, not the plan itself.
-2. **Use real federal and state tax brackets.** Not an effective rate. Not a guess. Your plan will look very different in California than in Texas.
-3. **Model Social Security explicitly.** At your actual expected benefit, at your actual claiming age.
-4. **Add RMDs starting at 73.** If you don't model them, you'll be surprised by them.
-5. **Run at least three scenarios.** Base case, bad-sequence case (2000–2010 returns), and an inflation-stress case.
-6. **Pick a withdrawal framework you can stick to.** Guardrails, bucket, or fixed — the best system is the one you'll actually follow when markets are down 35%.
-
-Most people won't do all of this. But if you're planning on a 50-year retirement, getting this right is worth a few weekends.
-
-## A simpler path
-
-Tally was built to do exactly this — lifetime forecasting with real tax brackets for all 50 states, RMDs, Social Security, and what-if scenario comparisons, all in one place. No spreadsheet. No assumptions about what your withdrawal rate should be — just a plan that shows you exactly how your money will behave, year by year, for the next 50 years.
-
-If you want to see what your actual safe withdrawal rate looks like (rather than assuming it's 4%), [try Tally free for 14 days](https://app.thetally.io). No credit card required.
-
-The 4% rule got a lot of people interested in early retirement. That's a good thing. But if you're actually going to do it, you deserve a better plan than a number from a 1994 paper about your grandparents' retirement.
+Start your 14-day free trial at thetally.io — no credit card required.
