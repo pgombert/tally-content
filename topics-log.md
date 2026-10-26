@@ -38,3 +38,4 @@ token-expires: 2026-10-30
 2026-10-19 | FIRE | Does the 4% Rule Work for Early Retirement? The 50-Year Problem (target query: "4% rule early retirement") | posts/4-percent-rule-early-retirement.md
 2026-10-19 | FIRE | Does the 4% Rule Work for Early Retirement? The 50-Year Problem (target query: "4% rule early retirement") | posts/4-percent-rule-early-retirement.md
 2026-10-26 — HSAs as a retirement account (the Medicare six-month lookback): The HSA Deadline Nobody Warns You About: Medicare's Six-Month Lookback
+2026-10-26 | Retirement Readiness | Retirement Withdrawal Order: Which Account Should You Tap First? (target query: "retirement withdrawal order") | posts/retirement-withdrawal-order.md
