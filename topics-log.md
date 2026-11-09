@@ -41,3 +41,4 @@ token-expires: 2026-10-30
 2026-10-26 | Retirement Readiness | Retirement Withdrawal Order: Which Account Should You Tap First? (target query: "retirement withdrawal order") | posts/retirement-withdrawal-order.md
 2026-11-02 — Net unrealized appreciation (NUA) on employer stock in a 401(k): The $500,000 Checkbox: Net Unrealized Appreciation and the 401(k) Rollover Decision You Only Get to Make Once
 2026-11-02 | Budgeting & Cash Flow | How to Create an Annual Budget for 2027 (Start With What You Actually Spent) (target query: "how to create an annual budget") | posts/how-to-create-an-annual-budget.md
+2026-11-09 — Gifting to family: lifetime gifts vs. the step-up in basis at death: Gifting Money to Your Kids: Why the Gift Tax Is the Wrong Thing to Worry About
