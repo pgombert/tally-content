@@ -46,3 +46,4 @@ token-expires: 2026-10-30
 2026-11-16 — Retirement contributions — the age 60–63 super catch-up window: The Four-Year Contribution Window: Why 60-Year-Olds Can Save More Than 65-Year-Olds in 2027
 2026-11-16 | Tax Modeling | Capital Gains Tax When You Sell Your House: The 2026 Rules Every Retiree Should Know (target query: "capital gains tax on selling a house") | posts/capital-gains-tax-selling-your-house.md
 2026-11-23 — Tax-loss harvesting and capital loss carryforwards: Your Capital Losses Have No Expiration Date — But the Deadline to Claim Them Is December 31
+2026-11-23 | FIRE | What Is Coast FIRE? How to Calculate Your Coast FIRE Number (target query: "coast fire number") | posts/coast-fire-number.md
